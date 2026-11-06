@@ -1,2 +1,2 @@
 # Kalkulator-Harga
-untuk menghitung harga diskon 
+untuk menghitung harga diskon dan pajak
